@@ -34,13 +34,15 @@
         "#333333",
         "#5fadd3"
       ]
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "我的日記",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
